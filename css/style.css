@@ -12288,10 +12288,10 @@ input.cart-plus-minus-box {
     .ltn__copyright-area .payment-method {
       text-align: center;
       margin-top: 15px; }
-    .ltn__copyright-area .site-logo-wrap {
+    /* .ltn__copyright-area .site-logo-wrap {
       -webkit-box-pack: center;
       -ms-flex-pack: center;
-      justify-content: center; }
+      justify-content: center; } */
     .ltn__copyright-area .ltn__copyright-menu {
       text-align: center !important; }
   #scrollUp {
